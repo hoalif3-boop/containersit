@@ -5,8 +5,8 @@
 
   // যেসব পেজ redirect করতে চাও (array আকারে)
   var redirectList = [
-  "https://watchvarse4.blogspot.com/p/blog-page.html";
-  "https://adx3uq.blogspot.com/p/11-siam.html";
+  "https://watchvarse4.blogspot.com";
+  "https://adx3uq.blogspot.com";
   ];
 
   // এখন চেক করবে বর্তমান URL এর path
